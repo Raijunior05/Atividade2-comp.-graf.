@@ -1,3 +1,7 @@
+//Alunos:
+// Raimundo Ferreira do Nasscimento Junior
+// Carlos Eduardo
+
 #include <GL/freeglut.h>
 #include <stdio.h>
 #include <math.h>

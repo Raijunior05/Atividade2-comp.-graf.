@@ -1,6 +1,6 @@
 //Alunos:
 // Raimundo Ferreira do Nasscimento Junior
-// Carlos Eduardo
+// Carlos Eduardo Batista Diniz
 
 #include <GL/freeglut.h>
 #include <stdio.h>
